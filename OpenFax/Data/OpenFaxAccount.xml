@@ -1,0 +1,11 @@
+﻿<account>
+  <accountnumber></accountnumber>
+  <apikey></apikey>
+  <imagetype></imagetype>
+  <imagesavepath></imagesavepath>
+  <isprefix></isprefix>
+  <prefix></prefix>
+  <issuffix></issuffix>
+  <suffix></suffix>
+  <checknewfaxes></checknewfaxes>
+</account>
